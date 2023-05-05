@@ -1,0 +1,30 @@
+#exemplo{
+    display: block;
+    color: darkolivegreen;
+    background-color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#exemplo1{
+    display: inline;
+    background-color: crimson;
+    color: blueviolet;
+}
+#exemplo2{
+    display: inline-block;
+    color: aqua;
+    background-color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#exemplo3{
+    display: flex;
+    background-color: chartreuse;
+    color: forestgreen;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                
+}
+#exemplo4{
+    display: grid;
+    background-color: darkred;
+   color: cornflowerblue;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
